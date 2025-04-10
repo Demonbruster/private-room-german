@@ -1,0 +1,111 @@
+Project name: Private Room
+Owner: Onur Pekesen
+Date: 07.04.2025
+Private Room is an innovative platform that connects people, companies and educational institutions
+in a secure and flexible digital space. The focus is on private communication, proximity chats and
+target group-specific functions that are supported by a unique monetization model.
+Main functions of Private Room
+Private chats Users can contact specific people or groups - on a request basis. Communication is
+enabled through a pay-per-message or subscription model. Chats based on proximity Private Room
+uses geolocation to display nearby users and create automatic groups (e.g. neighborhoods, events,
+companies or universities).
+Automatic groups
+Dynamic group creation based on contexts such as workplace, study courses or events. Structured
+communication with clear roles (e.g. admins and members). Ghost mode Allows anonymous
+interaction in chats without revealing identity or location. Sleeping mode Temporary deactivation of
+notifications and activities without being removed from groups. PrivRoom chat policies Chats that
+are left automatically delete their history, leaving only the names of the people involved. Long-term
+chats must be regularly renewed and paid for.
+Monetization functions
+Users pay for access to chats or to reconnect after a conversation has ended. Advertising spaces that
+make it possible to contact people again. Image and content control Optional blocking of images and
+attachments to minimize spam or abuse. Company integration Dedicated channels for internal
+communication or customer service.
+Boss mode for direct, prioritized messages to teams. Education-specific functions Organized chats
+between professors and students. Automatic grouping by courses or topics.
+Technical architecture of private room
+Server setup: Cloud infrastructure: AWS (Amazon Web Services), Google Cloud or Microsoft Azure as
+the basis for scalability and performance. Distributed server architecture to ensure fast data transfer
+worldwide.
+Database: MongoDB for NoSQL or PostgreSQL for structured data. Separate databases for chat
+histories, user data and payment information to ensure maximum security.
+Security: end-to-end encryption (E2EE) for private and group chats. Regular penetration tests and
+encryption security standards (e.g. TLS 1.3). Redundant servers and backups to prevent data loss.
+Geolocalization: Use of APIs such as Google Maps or Mapbox for localization and creation of radius
+groups.
+Payment gateways: Integration of Stripe, PayPal and localized payment options to ensure global
+usability.
+Sources of income
+Pay-per-chat system: Users pay for access to private or business chats. Advertising: Companies can
+place ads to get in touch with customers or target groups.
+Premium subscriptions: Extended functions such as ghost mode, longer chat periods or unlimited
+contacts.
+Additional ideas and features for Private Room
+Advanced AI functions: Larger companies if for example in a chat the insta or snap is exchanged that
+then they pay us. Automatic moderation and suggestions for answers.
+Gamification: Reward systems for active use, e.g. discounts on chat fees or premium features.
+Personalized advertising: Companies can target people based on their interests and location.
+Content moderation: AI-supported filters for detecting and blocking inappropriate content.
+Reporting function for users to report inappropriate behavior. Target groups and benefits of Private
+Room Private individuals Intuitive networking with people nearby or targeted contacts. Anonymous
+communication with the option to activate ghost mode. Companies Efficient customer
+communication and teamwork via specialized chat channels. Personalized advertising and targeted
+messaging functions. Educational institutions Flexible exchange between professors, students and
+teams. Organization of learning resources and discussions in groups.
+The “Private Room” app could definitely fill a niche, especially with the feature of only seeing people
+in close proximity and having a large chat group. Here are some considerations and steps to keep in
+mind when developing the app:
+1. location-based services:
+Implement precise GPS tracking to ensure that only users within a 25-50 meter radius are displayed.
+2. group chat function:
+Develop a stable and user-friendly group chat function that allows everyone to communicate for
+free.
+3. subscription model:
+Integrate a subscription model for private chats. We are considering different price levels and
+additional benefits for subscribers.
+4. data protection and security:
+Ensure that users' data is secure and their privacy is protected.
+5. user interface and design:
+An appealing and intuitive design is crucial to attract and retain users. But should be similar to
+WhatsApp, Telegram or Instagram chat.
+These are important features that can have a significant impact on the success of our app. Here are
+some specific considerations and recommendations for implementation:
+Chat functions
+1. group chat:
+- Real-time communication: Use WebSockets or similar technologies to enable real-time chat.
+- Moderation: Implement moderation tools to ensure the quality of conversations and prevent
+inappropriate behavior.
+- Notifications: Push notifications for new messages to keep users informed.
+2. private chat:
+- Subscription model: Offer different subscription options, e.g. monthly, yearly or one-off payments
+for certain features.
+- Security: Ensure that private messages are encrypted to protect user privacy.
+Payment functions
+1. subscription models:
+- Flexibility: Offer different subscription options, e.g. monthly, yearly or one-off payments for certain
+functions.
+- In-app purchases: Integrate in-app purchases for additional features or premium content.
+2. payment methods:
+- Variety: Support different payment methods such as credit cards, PayPal, Apple Pay, Google Wallet
+and other local payment methods.
+- Security: Use secure payment gateways to protect users' data.
+Further considerations
+- Ease of use: An intuitive and appealing design is crucial to improve the user experience.
+- Scalability: Make sure your app is scalable to handle a growing user base.
+- Feedback loops: Implement mechanisms to collect user feedback and continuously improve
+the app.
+There is currently no widely used app or program with the exact name “Private Room” that offers the
+functions we have described. However, there are many apps that have similar features, such as
+location-based chats and group communication. Some examples are:
+1. Tinder and Bumble - These apps offer location-based matchmaking and chat features.
+2. Happn - Shows you people you've met in real life based on your location.
+3. Meetup - Allows you to find and join groups and events near you.
+The idea for “Private Room” with a large chat group and the ability to unlock private chats via a
+subscription could stand out from these existing apps and fill a unique niche for. It seems that there
+is still room for innovation in this area.
+Non-disclosure agreement with an agency Non-Disclosure Agreement (NDA)
+Clear scope: Define exactly what information is considered confidential (e.g. business plans,
+technical details, designs).
+Limited use: The agency may only use the confidential information for the collaboration.
+Confidentiality obligations: Require the agency to securely store all confidential information and
+not disclose it to third parties.
