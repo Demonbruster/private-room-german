@@ -2,7 +2,7 @@
 
 **Version 1.0**  
 **Date: 07.04.2025**  
-**Document Owner: Onur Pekesen**
+**Document Owner: Serv&**
 
 ## Executive Summary
 
@@ -72,7 +72,13 @@ This solution has been designed to address market gaps in specialized communicat
 
 ---
 
-## Introduction
+## Document Revision History
+
+| Version | Date       | Description of Change | Author |
+|---------|------------|-----------------------|--------|
+| 1.0     | 07/04/2025 | Initial draft         | Serv&  |
+
+## 1. Introduction
 
 ### Purpose
 
@@ -981,4 +987,10 @@ By signing below, the parties agree to the terms and requirements outlined in th
 - **Software Company Representative**:
   - Name: ___________________
   - Signature: _______________
-  - Date: ___________________ 
+  - Date: ___________________
+
+## 2. Document Revision History
+
+| Version | Date       | Description of Change | Author       |
+|---------|------------|-----------------------|--------------|
+| 1.0     | 07/04/2025 | Initial draft         | Serv&        | 
